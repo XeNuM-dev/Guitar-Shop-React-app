@@ -1,2 +1,0 @@
-# Guitar-Shop-React-app
- 
